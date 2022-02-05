@@ -1,4 +1,4 @@
-# &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+# &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 # stsc.py
 # 
 # This python file contains the definition of self-tuning spectral clustering method.
@@ -7,12 +7,12 @@
 # Information Processing Systems, Vancouver, Canada, 2004.
 # 
 # Note: It is a trivial implementation in a literal manner, and has been put on hold for a term. Thus, 
-# either accuracy and completeness are still suspended.
+# either accuracy and completeness are still unknown.
 # 
 # Miao Cheng 
 # Email: miao_cheng@outlook.com
 # Date: 2021-07
-# &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+# &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 import numpy as np
 from numpy import linalg as la
 
